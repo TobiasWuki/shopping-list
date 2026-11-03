@@ -6,3 +6,4 @@ brokkoli
 speck
 tomate
 brisket
+Laktose
