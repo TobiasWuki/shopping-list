@@ -5,3 +5,4 @@ birnen
 brokkoli
 speck
 tomate
+brisket
